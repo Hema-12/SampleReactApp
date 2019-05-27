@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "",
+      "manager": "",
+      "deptId": 3,
+      "phno": "89",
+      "salary": "",
+      "nationality": ""
+    }
+  ],
+  "depts": [
+    {
+      "id": 1,
+      "name": "APPS"
+    },
+    {
+      "id": 2,
+      "name": "BPO"
+    },
+    {
+      "id": 3,
+      "name": "HR"
+    },
+    {
+      "id": 4,
+      "name": "Finance"
+    }
+  ]
+}
